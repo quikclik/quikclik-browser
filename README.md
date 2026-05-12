@@ -1,4 +1,4 @@
-![QuikClik Cardinal](docs/oops.svg)
+![QuikClik Cardinal](docs/banner-new.svg)
 # QuikClik Cardinal v0.06
 The official QuikClik browser.
 Changelog:
